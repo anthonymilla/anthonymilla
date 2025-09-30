@@ -1,3 +1,3 @@
 ## La meva presentació
 
-Me llamo Anthony y soy un estudiante de grado medio de informàtica (SMX).
+Me llamo Anthony y soy un estudiante de grado medio de informàtica (SMX) a [l'Escola Pia](https://mataro.escolapia.cat/).
