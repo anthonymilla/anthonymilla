@@ -9,6 +9,7 @@ Me llamo Anthony y soy un estudiante de grado medio de informàtica (SMX) a [l'E
 -Soporte técnico y resolución de problemas
 
 **Objetivos**
+
 Seguir aprendiendo y creciendo en la informática
 
 Participar en proyectos reales que me ayuden a aprender y me enseñen
