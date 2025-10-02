@@ -2,30 +2,18 @@
 
 Me llamo Anthony y soy un estudiante de grado medio de informàtica (SMX) a [l'Escola Pia](https://mataro.escolapia.cat/).
 
-Me gusta aprender cosas nuevas, experimentar con proyectos, y mejorar cada día. Estoy especialmente interesado en:
+**Me gusta aprender cosas nuevas, experimentar con proyectos, y mejorar cada día. Estoy especialmente interesado en:**
 
-💻 Montaje y mantenimiento de equipos
+-Montaje y mantenimiento de equipos
 
-🌐 Redes y conectividad
+-Soporte técnico y resolución de problemas
 
-🛠️ Soporte técnico y resolución de problemas
+**Objetivos**
+Seguir aprendiendo y creciendo en la informática
 
-🔐 Ciberseguridad (¡me intriga muchísimo!)
+Participar en proyectos reales que me ayuden a aprender y me enseñen
 
-🎮 Videojuegos y cómo se crean
+Mejorar mis habilidades en montaje y mantenimiento de equipos
 
-🧠 Automatización y scripts para facilitar tareas
-
-🎯 Objetivos
-Seguir aprendiendo y creciendo como técnico informático
-
-Participar en proyectos reales que me reten y me enseñen
-
-Conectar con personas del mundo tech
-
-Mejorar mis habilidades en programación, redes y seguridad
-
-Contribuir a proyectos open source (¡pronto!)
-
-🚀 En GitHub
+**En GitHub**
 Aquí iré subiendo mis prácticas, proyectos personales, ideas y experimentos. Todo lo que me ayude a avanzar y que pueda compartir con la comunidad.
