@@ -20,9 +20,9 @@ Estoy especialmente interesado en:
 |------------------------|---------------|---------------------------------------|
 | Programació            | Bàsic         | Python                                |
 | Aplicacions ofimàtiques| Bàsic         | Excel, Access, PowerPoint             |
-| Xarxes Locals          | Bàsic         | —                                     |
+| Xarxes Locals          | Bàsic         | -                                     |
 | Sistemes operatius     | Bàsic         | Linux                                 |
-| Muntatge i Manteniment | Bàsic         | —                                     |
+| Muntatge i Manteniment | Bàsic         | -                                     |
 
 
 **En GitHub**
