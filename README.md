@@ -14,15 +14,15 @@ Estoy especialmente interesado en:
 - Participar en proyectos reales que me ayuden a aprender y me enseñen  
 - Mejorar mis habilidades en montaje y mantenimiento de equipos
 
-**Coneixements i Eines**
+**Conocimientos y Herramientas**
 
-| Àrea                   | Nivell Actual | Eines / Aplicacions                   |
+| Área                   | Nivel Actual  | Herramientas / Aplicacions            |
 |------------------------|---------------|---------------------------------------|
-| Programació            | Bàsic         | Python                                |
-| Aplicacions ofimàtiques| Bàsic         | Excel, Access, PowerPoint             |
-| Xarxes Locals          | Bàsic         | -                                     |
-| Sistemes operatius     | Bàsic         | Linux                                 |
-| Muntatge i Manteniment | Bàsic         | -                                     |
+| Programación           | Básico        | Python                                |
+| Aplicaciones ofimáticas| Básico        | Excel, Access, PowerPoint             |
+| Redes Locales          | Básico        | -                                     |
+| Sistemas operativos    | Básico        | Linux                                 |
+| Montaje y Mantenimento | Básico        | -                                     |
 
 
 **En GitHub**
