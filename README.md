@@ -12,18 +12,17 @@ Estoy especialmente interesado en:
 
 - Seguir aprendiendo y creciendo en la informática  
 - Participar en proyectos reales que me ayuden a aprender y me enseñen  
-- Mejorar mis habilidades en montaje y mantenimiento de equipos
+- Mejorar mis habilidades en montaje y mantenimiento de equipos..
 
 **Conocimientos y Herramientas**
 
 | Área                   | Nivel Actual  | Herramientas / Aplicacions            |
 |------------------------|---------------|---------------------------------------|
 | Programación           | Básico        | Python                                |
-| Aplicaciones ofimáticas| Básico        | Excel, Access, PowerPoint             |
-| Redes Locales          | Básico        | -                                     |
-| Sistemas operativos    | Básico        | Linux                                 |
-| Montaje y Mantenimento | Básico        | -                                     |
-
+| Aplicaciones ofimáticas| Básico/Medio  | Excel, Access, PowerPoint             |
+| Redes Locales          | Básico        | Packet Tracer                         |
+| Sistemas operativos    | Básico/Medio  | Linux, Windows                        |
+| Montaje y Mantenimento | Básico/Medio  | AIDA64, CPU-Z, PC Building Simulator  |
 
 **En GitHub**
 
