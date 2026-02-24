@@ -29,7 +29,8 @@ Estoy especialmente interesado en:
 
 Conocimientos/experiencia en la reparación de ordenadores, configuración, administración, resolviendo dudas parciales sobre estos también y otros dispositivos, traspaso de datos, venta de fundas, relojes tecnológicos...
 
-**Experiencia Laboral**
+| Experiencia Laboral |
+|----------------------------------------|
 
 - En cuanto a experiencia, tuve la oportunidad con la escuela de estar durante unos meses durante 4 de ESO de ir a una residencia de ancianos los viernes durante 2 horas por la tarde fuera de horario escolar para cuidarlos, tratarlos y ayudarlos en sus necesidades.
 
