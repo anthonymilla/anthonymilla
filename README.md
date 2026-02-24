@@ -3,6 +3,7 @@
 Me llamo Anthony y soy un estudiante de grado medio de informática (SMX) en [l'Escola Pia](https://mataro.escolapia.cat/).
 
 **Me gusta aprender cosas nuevas, experimentar con proyectos y mejorar cada día.**  
+
 Estoy especialmente interesado en:
 
 - Montaje y mantenimiento de equipos  
