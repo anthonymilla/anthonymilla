@@ -24,6 +24,20 @@ Estoy especialmente interesado en:
 | Sistemas operativos    | Básico/Medio  | Linux, Windows                        |
 | Montaje y Mantenimento | Básico/Medio  | AIDA64, CPU-Z, PC Building Simulator  |
 
+**Conocimientos/Experiencia**
+
+Conocimientos/experiencia en la reparación de ordenadores, configuración, administración, resolviendo dudas parciales sobre estos también y otros dispositivos, traspaso de datos, venta de fundas, relojes tecnológicos...
+
+**Experiencia Laboral**
+
+- En cuanto a experiencia, tuve la oportunidad con la escuela de estar durante unos meses durante 4 de ESO de ir a una residencia de ancianos los viernes durante 2 horas por la tarde fuera de horario escolar para cuidarlos, tratarlos y ayudarlos en sus necesidades.
+
+- También, cuando mejoré mi técnica de natación, de forma voluntaria ayudé a mejorar la técnica de algunos niños pequeños a la hora de nadar.
+
+- Prácticas de Grado medio de informática (Sistemas microinformáticos y redes) en la tienda CalTecniC distribuidor oficial Xiaomi (Accesorios y Reparaciones), una tienda con servicio de venta y reparación de ordenadores, de tabletas y otros dispositivos. Accesorios para tus equipos. Personalizaciones de accesorios, fundas y toda clase de dispositivos. Donde yo dedicándome a la reparación de ordenadores, configuración, administración, resolviendo dudas parciales sobre estos también y otros dispositivos, traspaso de datos, venta de fundas, relojes tecnológicos...
+
+
+
 **En GitHub**
 
 Aquí iré subiendo mis prácticas, proyectos personales, ideas y experimentos.  
