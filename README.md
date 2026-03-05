@@ -27,7 +27,7 @@ Estoy especialmente interesado en:
 
 **Conocimientos/Experiencia**
 
-Conocimientos/experiencia en la reparación de ordenadores, configuración, administración, resolviendo dudas parciales sobre estos también y otros dispositivos, traspaso de datos, venta de fundas, relojes tecnológicos, donde practique un poco de soldadura basica en ordenadores de prueba (equipos no operativos)...
+Conocimientos/experiencia en la reparación de ordenadores, configuración, administración, resolviendo dudas parciales sobre estos también y otros dispositivos, traspaso de datos, venta de fundas, relojes tecnológicos...
 
 | Experiencia Laboral |
 |----------------------------------------|
