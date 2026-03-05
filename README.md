@@ -27,7 +27,7 @@ Estoy especialmente interesado en:
 
 **Conocimientos/Experiencia**
 
-Conocimientos/experiencia en la reparación de ordenadores, configuración, administración, resolviendo dudas parciales sobre estos también y otros dispositivos, traspaso de datos, venta de fundas, relojes tecnológicos...
+Conocimientos/experiencia en la reparación de ordenadores, configuración, administración, resolviendo dudas parciales sobre estos también y otros dispositivos, traspaso de datos, venta de fundas, relojes tecnológicos, donde practique un poco de soldadura basica en ordenadores de prueba (equipos no operativos)...
 
 | Experiencia Laboral |
 |----------------------------------------|
@@ -36,7 +36,7 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 
 - También, cuando mejoré mi técnica de natación, de forma voluntaria ayudé a mejorar la técnica de algunos niños pequeños a la hora de nadar.
 
-- Prácticas de Grado medio de informática (Sistemas microinformáticos y redes) en la tienda CalTecniC distribuidor oficial Xiaomi (Accesorios y Reparaciones), una tienda con servicio de venta y reparación de ordenadores, de tabletas y otros dispositivos. Accesorios para tus equipos. Personalizaciones de accesorios, fundas y toda clase de dispositivos. Donde yo dedicándome a la reparación de ordenadores, configuración, administración, resolviendo dudas parciales sobre estos también y otros dispositivos, traspaso de datos, venta de fundas, relojes tecnológicos...
+- Prácticas de Grado medio de informática (Sistemas microinformáticos y redes) en la tienda CalTecniC distribuidor oficial Xiaomi (Accesorios y Reparaciones), una tienda con servicio de venta y reparación de ordenadores, de tabletas y otros dispositivos. Accesorios para tus equipos. Personalizaciones de accesorios, fundas y toda clase de dispositivos. Donde yo dedicándome a la reparación de ordenadores, configuración, administración, resolviendo dudas parciales sobre estos también y otros dispositivos, traspaso de datos, venta de fundas, relojes tecnológicos, donde practique un poco de soldadura basica en ordenadores de prueba (equipos no operativos)...
 
 ![- Prácticas de Grado medio de informática (Sistemas microinformáticos y redes) en la tienda CalTecniC distribuidor oficial Xiaomi (Accesorios y Reparaciones), una tienda con servicio de venta y reparación de ordenadores, de tabletas y otros dispositivos. Accesorios para tus equipos. Personalizaciones de accesorios, fundas y toda clase de dispositivos. Donde yo dedicándome a la reparación de ordenadores, configuración, administración, resolviendo dudas parciales sobre estos también y otros dispositivos, traspaso de datos, venta de fundas, relojes tecnológicos...](Img/Imagen01.png)
 
