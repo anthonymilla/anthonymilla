@@ -24,6 +24,7 @@ Estoy especialmente interesado en:
 | Redes Locales          | Básico        | Packet Tracer                         |
 | Sistemas operativos    | Básico/Medio  | Linux, Windows                        |
 | Montaje y Mantenimento | Básico/Medio  | AIDA64, CPU-Z, PC Building Simulator  |
+| Aplicaciones web       | Básico/Medio  | WordPress, Figma, Moodle              |
 
 **Conocimientos/Experiencia**
 
