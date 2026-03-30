@@ -46,16 +46,16 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 
 **Idiomas**
 
-- **Español:** Nativo   
+- **Español:** Nivel Nativo   
 [██████████]
 
-- **Catalan:** Nativo   
+- **Catalan:** Nivel Nativo   
 [██████████]
 
-- **Francés:** Medio +/(B2)   
+- **Francés:** Nivel Medio +/(B2)   
 [█████░░░░░]
 
-- **Inglés:** Medio -/(B1)   
+- **Inglés:** Nivel Medio -/(B1)   
 [███░░░░░░░]
 
 **En GitHub**
