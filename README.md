@@ -44,7 +44,8 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 
 - También, cuando mejoré mi técnica de natación, de forma voluntaria ayudé a mejorar la técnica de algunos niños pequeños a la hora de nadar.
 
-**Idiomas**
+| Idiomas |
+|----------------------------------------|
 
 **Español:** Nativo
 
@@ -54,17 +55,11 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 
 [██████████]
 
-**Francés:** 
-
-Medio +    
-(B2)
+**Francés:** Medio +/(B2)
 
 [█████░░░░░]
 
-**Inglés:**  
-
-Medio -    
-(B1)
+**Inglés:** Medio -/(B1)
 
 [███░░░░░░░]
 
