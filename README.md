@@ -46,22 +46,24 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 
 **Idiomas**
 
-**Español:** Nativo  
+**Español:** Nativo
+
 [██████████]
 
-**Catalan:** Nativo  
+**Catalan:** Nativo
+
 [██████████]
 
-**Francés:** Medio +
+**Francés:** 
 
+Medio +    
 (B2)
 
 [█████░░░░░]
 
 **Inglés:**  
 
-Medio -
-
+Medio -    
 (B1)
 
 [███░░░░░░░]
