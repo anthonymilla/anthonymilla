@@ -44,6 +44,13 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 
 - También, cuando mejoré mi técnica de natación, de forma voluntaria ayudé a mejorar la técnica de algunos niños pequeños a la hora de nadar.
 
+**Idiomas**
+
+Español: Nativo  [██████████]    
+Catalan: Nativo  [██████████]    
+Francés: Medio + [█████░░░░░]    
+Inglés:  Medio - [███░░░░░░░]   
+
 **En GitHub**
 
 Aquí iré subiendo mis prácticas, proyectos personales, ideas y experimentos.  
