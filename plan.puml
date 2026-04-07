@@ -1,5 +1,0 @@
-@startgantt
-[Tarea A] lasts 4 days
-[Tarea B] lasts 2 days
-[Tarea A] -> [Tarea B]
-@endgantt
