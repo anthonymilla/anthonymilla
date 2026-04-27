@@ -60,5 +60,5 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 
 **En GitHub**
 
-Aquí iré subiendo mis prácticas, proyectos personales, ideas y experimentos, todo lo que me ayude a avanzar y que pueda compartir con la comunidad.
+Aquí iré subiendo mis prácticas, proyectos personales, ideas, experimentos, todo lo que me ayude a avanzar y que pueda compartir con la comunidad.
 
