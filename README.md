@@ -20,7 +20,7 @@ Estoy especialmente interesado en:
 | Área                   | Nivel Actual  | Herramientas / Aplicacions            |
 |------------------------|---------------|---------------------------------------|
 | Programación           | Básico        | Python                                |
-| Aplicaciones ofimáticas| Básico/Medio  | Excel, Access, PowerPoint             |
+| Aplicaciones ofimáticas| Medio         | Excel, Access, PowerPoint             |
 | Redes Locales          | Básico/Medio  | Packet Tracer                         |
 | Sistemas operativos    | Básico/Medio  | Linux, Windows                        |
 | Montaje y Mantenimento | Básico/Medio  | AIDA64, CPU-Z, PC Building Simulator  |
