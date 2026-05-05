@@ -40,9 +40,9 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 | Experiencia Adicional |
 |----------------------------------------|
 
-- En cuanto a experiencia, tuve la oportunidad con la escuela de estar durante unos meses durante 4 de ESO de ir a una residencia de ancianos los viernes durante 2 horas por la tarde fuera de horario escolar para cuidarlos, tratarlos y ayudarlos en sus necesidades.
+- Servicio Comunitario – Residencia de Ancianos (Residencia Municipal Sant Josep)
 
-- También, cuando mejoré mi técnica de natación, de forma voluntaria ayudé a mejorar la técnica de algunos niños pequeños a la hora de nadar.
+- Voluntariado - Ayuda de técnica de natación para niños
 
 **Idiomas**
 
