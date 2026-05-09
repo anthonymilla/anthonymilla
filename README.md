@@ -40,7 +40,7 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 | Experiencia Adicional |
 |----------------------------------------|
 
-- Servicio Comunitario – Residencia de Ancianos (Residencia Municipal Sant Josep)
+- Servicio Comunitario - Residencia de Ancianos (Residencia Municipal Sant Josep)
 
 - Voluntariado - Ayuda de técnica de natación para niños
 
