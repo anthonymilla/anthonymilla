@@ -1,6 +1,6 @@
 # Mi presentación
 
-Me llamo Anthony y soy un estudiante de grado medio de informática (SMX) en [l'Escola Pia](https://mataro.escolapia.cat/).
+Me llamo Anthony y soy un estudiante de grado medio de informática (SMR) en [l'Escola Pia](https://mataro.escolapia.cat/).
 
 **Me gusta aprender cosas nuevas, experimentar con proyectos y mejorar cada día.**  
 
