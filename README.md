@@ -1,6 +1,6 @@
 # Mi presentación
 
-Me llamo Anthony y soy un estudiante de grado medio de informática (SMR) en [l'Escola Pia](https://mataro.escolapia.cat/).
+Me llamo Anthony y soy un estudiante de grado medio de informática (SMR) en la [Escuela Pia](https://mataro.escolapia.cat/). Nací en Barcelona el 2/10/2008 y vivo en Mataró actualmente. Hice la ESO en el Colegio Mare de Déu de Lourdes de Mataró y ahora estoy en un ciclo de grado medio de informática en la Escuela Pia Santa Anna de Mataró, aprendiendo.
 
 **Me gusta aprender cosas nuevas, experimentar con proyectos y mejorar cada día.**  
 
@@ -26,9 +26,15 @@ Estoy especialmente interesado en:
 | Montaje y Mantenimento | Básico/Medio  | AIDA64, CPU-Z, PC Building Simulator  |
 | Aplicaciones web       | Básico/Medio  | WordPress, Figma, Moodle              |
 
+| Formación - Estudios |
+|----------------------------------------|
+
+- Grado medio de informática (sistemas microinformáticos y redes) (2024 - Actualmente)
+- Educación secundaria obligatoria (Colegio Mare de Déu de Lourdes de Mataró, 2020 - 2024)
+
 **Conocimientos/Experiencia**
 
-Conocimientos/experiencia en la reparación de ordenadores, configuración, administración, resolviendo dudas parciales sobre estos también y otros dispositivos, traspaso de datos, venta de fundas, relojes tecnológicos...
+Conocimientos/experiencia en la reparación de ordenadores, configuración, administración, soporte técnico, traspaso de datos, venta de fundas, relojes tecnológicos, soldadura básica en ordenadores (teclados, reconstrucción de soportes roscados de bisagra), ordenadores de testeo y funcionales...
 
 | Experiencia Laboral |
 |----------------------------------------|
