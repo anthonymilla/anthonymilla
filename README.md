@@ -1,6 +1,6 @@
 # Mi presentación
 
-Me llamo Anthony y soy un estudiante de grado medio de informática (SMR) en la [Escuela Pia](https://mataro.escolapia.cat/). Nací en Barcelona el 2/10/2008 y vivo en Mataró actualmente. Hice la ESO en el Colegio Mare de Déu de Lourdes de Mataró y ahora estoy en un ciclo de grado medio de informática en la Escuela Pia Santa Anna de Mataró, aprendiendo.
+Hola, me llamo Anthony, nací en Barcelona el 2/10/2008 y vivo en Mataró actualmente. Hice la ESO en el Colegio Mare de Déu de Lourdes de Mataró y ahora estoy en un ciclo de grado medio de informática (SMR) en la [Escuela Pia](https://mataro.escolapia.cat/) Santa Anna de Mataró, aprendiendo.
 
 **Me gusta aprender cosas nuevas, experimentar con proyectos y mejorar cada día.**  
 
