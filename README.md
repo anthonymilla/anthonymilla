@@ -68,3 +68,14 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 
 Aquí iré subiendo mis prácticas, proyectos personales, ideas, experimentos, todo lo que me ayude a avanzar y que pueda compartir con la comunidad.
 
+| Repositorios |
+|----------------------------------------|
+
+[Repositorio Proyecto 2]()
+[Repositorio Proyecto 3]()
+[Repositorio Proyecto 4]()
+[Repositorio Proyecto 5]()
+[Repositorio Proyecto 6]()
+[Repositorio Proyecto 7]()
+[Repositorio Proyecto 8]()
+
