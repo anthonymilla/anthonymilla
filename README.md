@@ -75,6 +75,8 @@ Aquí iré subiendo mis prácticas, proyectos personales, ideas, experimentos, t
 
 **[Repositorio Proyecto 3](https://github.com/anthonymilla/Projecte3-Everpia2)**
 
+**[EverPia-Incorporación](https://github.com/anthonymilla/EverPia-Onboarding)**
+
 **[Repositorio Proyecto 4](https://github.com/anthonymilla/Projecte4-EverPia3)**
 
 **[Repositorio Proyecto 5](https://github.com/anthonymilla/projecte5-anthonymilla)**
@@ -87,7 +89,7 @@ Aquí iré subiendo mis prácticas, proyectos personales, ideas, experimentos, t
 
 **[Repositorio Proyecto 8](https://github.com/anthonymilla/projecte-8-anthonymilla)**
 
-**[Agregando Zorin en AD](https://github.com/anthonymilla/ud9-agregarzorinad-anthonymilla)**
+**[Integración Zorin en AD](https://github.com/anthonymilla/ud9-agregarzorinad-anthonymilla)**
 
 **[Branches ejemplo](https://github.com/anthonymilla/Branches_exemple)**
 
