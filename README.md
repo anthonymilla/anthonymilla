@@ -68,28 +68,27 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 
 Aquí iré subiendo mis prácticas, proyectos personales, ideas, experimentos, todo lo que me ayude a avanzar y que pueda compartir con la comunidad.
 
-| Repositorios |
-|----------------------------------------|
+## 📂 Repositorios
 
-**[Repositorio Proyecto 2](https://github.com/anthonymilla/Porjecte2-Everpia)**
+**[📁 Repositorio Proyecto 2](https://github.com/anthonymilla/Porjecte2-Everpia)**
 
-**[Repositorio Proyecto 3](https://github.com/anthonymilla/Projecte3-Everpia2)**
+**[📁 Repositorio Proyecto 3](https://github.com/anthonymilla/Projecte3-Everpia2)**
 
-**[EverPia-Incorporación](https://github.com/anthonymilla/EverPia-Onboarding)**
+**[📁 EverPia-Incorporación](https://github.com/anthonymilla/EverPia-Onboarding)**
 
-**[Repositorio Proyecto 4](https://github.com/anthonymilla/Projecte4-EverPia3)**
+**[📁 Repositorio Proyecto 4](https://github.com/anthonymilla/Projecte4-EverPia3)**
 
-**[Repositorio Proyecto 5](https://github.com/anthonymilla/projecte5-anthonymilla)**
+**[📁 Repositorio Proyecto 5](https://github.com/anthonymilla/projecte5-anthonymilla)**
 
-**[Repositorio Proyecto 6](https://github.com/anthonymilla/projecte6-anthonymilla)**
+**[📁 Repositorio Proyecto 6](https://github.com/anthonymilla/projecte6-anthonymilla)**
 
-**[Repositorio Proyecto 7](https://github.com/anthonymilla/projecte-7-anthonymilla)**
+**[📁 Repositorio Proyecto 7](https://github.com/anthonymilla/projecte-7-anthonymilla)**
 
-**[Web Corporativa de FoodLogistic](https://github.com/anthonymilla/Web-corporativa-FoodLogistic)**
+**[📁 Web Corporativa de FoodLogistic](https://github.com/anthonymilla/Web-corporativa-FoodLogistic)**
 
-**[Branches ejemplo](https://github.com/anthonymilla/Branches_exemple)**
+**[📁 Branches ejemplo](https://github.com/anthonymilla/Branches_exemple)**
 
-**[Repositorio Proyecto 8](https://github.com/anthonymilla/projecte-8-anthonymilla)**
+**[📁 Repositorio Proyecto 8](https://github.com/anthonymilla/projecte-8-anthonymilla)**
 
-**[Integración Zorin en AD](https://github.com/anthonymilla/ud9-agregarzorinad-anthonymilla)**
+**[📁 Integración Zorin en AD](https://github.com/anthonymilla/ud9-agregarzorinad-anthonymilla)**
 
