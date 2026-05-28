@@ -19,7 +19,7 @@ Estoy especialmente interesado en:
 - Participar en proyectos reales que me ayuden a aprender y me enseñen  
 - Mejorar mis habilidades en montaje y mantenimiento de equipos..
 
-**🛠️ Conocimientos y Herramientas**
+**💻⚙️ Conocimientos y Herramientas**
 
 | Área                   | Nivel Actual  | Herramientas / Aplicacions            |
 |------------------------|---------------|---------------------------------------|
