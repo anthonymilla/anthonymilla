@@ -10,14 +10,16 @@ Hola, me llamo Anthony, nací en Barcelona el 2/10/2008 y vivo en Mataró actual
 
 Estoy especialmente interesado en:
 
-- Montaje y mantenimiento de equipos  
+- Creación de aplicaciones de escritorio y móviles para la gestión y resolución de incidencias informáticas  
 - Soporte técnico y resolución de problemas
+- Montaje y mantenimiento de equipos
 
 **🎯 Objetivos**
 
-- Seguir aprendiendo y creciendo en la informática  
-- Participar en proyectos reales que me ayuden a aprender y me enseñen  
-- Mejorar mis habilidades en montaje y mantenimiento de equipos..
+- Seguir aprendiendo y creciendo en la informática y en general 
+- Participar en proyectos reales que me ayuden a aprender y me enseñen
+- Aprender y mejorar en por ejemplo la creación de aplicaciones de escritorio y móviles para la gestión y resolución de incidencias informáticas
+- Aprender y mejorar mis habilidades en montaje y mantenimiento de equipos
 
 **💻⚙️ Conocimientos y Herramientas**
 
