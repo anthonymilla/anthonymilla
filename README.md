@@ -43,7 +43,7 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 | 💼 Experiencia Laboral |
 |----------------------------------------|
 
-- 🖥 Prácticas de Grado medio de informática (Sistemas microinformáticos y redes) en la tienda CalTecniC distribuidor oficial Xiaomi, Accesorios y Reparaciones - Mataró. Donde yo dedicándome a la reparación de ordenadores, configuración, administración, soporte técnico, traspaso de datos, venta de fundas, relojes tecnológicos, soldadura básica en ordenadores (teclados, reconstrucción de soportes roscados de bisagra), ordenadores de testeo y funcionales...
+- 🔹️ Prácticas de Grado medio de informática (Sistemas microinformáticos y redes) en la tienda CalTecniC distribuidor oficial Xiaomi, Accesorios y Reparaciones - Mataró. Donde yo dedicándome a la reparación de ordenadores, configuración, administración, soporte técnico, traspaso de datos, venta de fundas, relojes tecnológicos, soldadura básica en ordenadores (teclados, reconstrucción de soportes roscados de bisagra), ordenadores de testeo y funcionales...
 
 ![- Prácticas de Grado medio de informática (Sistemas microinformáticos y redes) en la tienda CalTecniC distribuidor oficial Xiaomi, Accesorios y Reparaciones - Mataró, una tienda con servicio de venta y reparación de ordenadores, de tabletas y otros dispositivos. Accesorios para tus equipos. Personalizaciones de accesorios, fundas y toda clase de dispositivos. Donde yo dedicándome a la reparación de ordenadores, configuración, administración, soporte técnico, traspaso de datos, venta de fundas, relojes tecnológicos, soldadura básica en ordenadores (teclados, reconstrucción de soportes roscados de bisagra), ordenadores de testeo y funcionales...](Img/Imagen01.png)
 
