@@ -54,18 +54,18 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 
 - Voluntariado - Ayuda de técnica de natación para niños
 
-**Idiomas**
+**🌍 Idiomas**
 
-- **Español:** Nivel Nativo   
+- **🇪🇦 Español:** Nivel Nativo   
 [██████████]
 
-- **Catalan:** Nivel Nativo   
+- **🏴 Catalan:** Nivel Nativo   
 [██████████]
 
-- **Francés:** Nivel Medio +/(B2)   
+- **🇲🇫 Francés:** Nivel Medio +/(B2)   
 [█████░░░░░]
 
-- **Inglés:** Nivel Medio -/(B1)   
+- **🇬🇧 Inglés:** Nivel Medio -/(B1)   
 [███░░░░░░░]
 
 **En GitHub**
