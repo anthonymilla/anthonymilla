@@ -1,6 +1,10 @@
-# Mi presentación
+# 🙋‍♂️ Mi presentación
 
 Hola, me llamo Anthony, nací en Barcelona el 2/10/2008 y vivo en Mataró actualmente. Hice la ESO en el Colegio Mare de Déu de Lourdes de Mataró y ahora estoy en un ciclo de grado medio de informática (SMR) en la [Escuela Pia](https://mataro.escolapia.cat/) Santa Anna de Mataró, aprendiendo.
+
+👤 Contacto 
+- 📧 anthonymillaxt08@gmail.com
+- 💻 https://github.com/anthonymilla
 
 **Me gusta aprender cosas nuevas, experimentar con proyectos y mejorar cada día.**  
 
