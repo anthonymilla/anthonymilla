@@ -8,7 +8,7 @@ Hola, me llamo Anthony, nací en Barcelona el 2/10/2008 y vivo en Mataró actual
 
 **🧪 Me gusta aprender cosas nuevas, experimentar con proyectos y mejorar cada día.**  
 
-Estoy especialmente interesado en:
+**Estoy especialmente interesado en:**
 
 - Creación de aplicaciones de escritorio y móviles para la gestión y resolución de incidencias informáticas  
 - Soporte técnico y resolución de problemas
