@@ -70,6 +70,14 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 - **🇬🇧 Inglés:** Nivel Medio -/(B1)   
 [███░░░░░░░]
 
+**🧠 Aptitudes**
+
+- Trabajo en equipo  
+- Respeto  
+- Organización  
+- Puntualidad  
+- Iniciativa
+
 **💭 En GitHub**
 
 Aquí iré subiendo mis prácticas, proyectos personales, ideas, experimentos, todo lo que me ayude a avanzar y que pueda compartir con la comunidad.
