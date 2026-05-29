@@ -72,11 +72,11 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 
 **🧠 Aptitudes**
 
-- Trabajo en equipo  
-- Respeto  
-- Organización  
-- Puntualidad  
-- Iniciativa
+- 👥 Trabajo en equipo  
+- 🙏 Respeto  
+- 🗂️ Organización  
+- 🕒 Puntualidad  
+- 🚀 Iniciativa
 
 **💭 En GitHub**
 
