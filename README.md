@@ -78,17 +78,17 @@ Aquí iré subiendo mis prácticas, proyectos personales, ideas, experimentos, t
 
 **[📁 Repositorio Proyecto 2 - Afegint la documentació de seguretat al repositori](https://github.com/anthonymilla/Porjecte2-Everpia)**
 
-**[📁 Repositorio Proyecto 3 - Consultoria EverPia 3](https://github.com/anthonymilla/Projecte3-Everpia2)**
+**[📁 Repositorio Proyecto 3 - EverPia](https://github.com/anthonymilla/Projecte3-Everpia2)**
 
-**[📁 Repositorio Proyecto 4 "La incubadora"](https://github.com/anthonymilla/Projecte4-EverPia3)**
+**[📁 Repositorio Proyecto 4 - Consultoria EverPia 3](https://github.com/anthonymilla/Projecte4-EverPia3)**
 
-**[📁 EverPia-Incorporación](https://github.com/anthonymilla/EverPia-Onboarding)**
+**[📁 EverPia-Onboarding](https://github.com/anthonymilla/EverPia-Onboarding)**
 
-**[📁 Repositorio Proyecto 5 - EverPia](https://github.com/anthonymilla/projecte5-anthonymilla)**
+**[📁 Repositorio Proyecto 5 - "La incubadora"](https://github.com/anthonymilla/projecte5-anthonymilla)**
 
-**[📁 Repositorio Proyecto 6 projecte Nexus](https://github.com/anthonymilla/projecte6-anthonymilla)**
+**[📁 Repositorio Proyecto 6 Nexus](https://github.com/anthonymilla/projecte6-anthonymilla)**
 
-**[📁 Repositorio Proyecto 7 projecte FoodLogistic](https://github.com/anthonymilla/projecte-7-anthonymilla)**
+**[📁 Repositorio Proyecto 7 FoodLogistic](https://github.com/anthonymilla/projecte-7-anthonymilla)**
 
 **[📁 Web Corporativa de FoodLogistic](https://github.com/anthonymilla/Web-corporativa-FoodLogistic)**
 
@@ -96,5 +96,5 @@ Aquí iré subiendo mis prácticas, proyectos personales, ideas, experimentos, t
 
 **[📁 Repositorio Proyecto 8. Connecta't al Futur: El repte de la digitalització real](https://github.com/anthonymilla/projecte-8-anthonymilla)**
 
-**[📁 Integración Zorin en AD](https://github.com/anthonymilla/ud9-agregarzorinad-anthonymilla)**
+**[📁 Integración Linux/Zorin en AD](https://github.com/anthonymilla/ud9-agregarzorinad-anthonymilla)**
 
