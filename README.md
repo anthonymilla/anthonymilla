@@ -76,7 +76,7 @@ Aquí iré subiendo mis prácticas, proyectos personales, ideas, experimentos, t
 
 ## 📂 Repositorios
 
-**[📁 Repositorio Proyecto 2 - Afegint la documentacio de seguretat al repositori](https://github.com/anthonymilla/Porjecte2-Everpia)**
+**[📁 Repositorio Proyecto 2 - Afegint la documentació de seguretat al repositori](https://github.com/anthonymilla/Porjecte2-Everpia)**
 
 **[📁 Repositorio Proyecto 3 - Consultoria EverPia 3](https://github.com/anthonymilla/Projecte3-Everpia2)**
 
