@@ -65,10 +65,10 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 - **🏴 Catalan:** Nivel Nativo   
 [██████████]
 
-- **🇲🇫 Francés:** Nivel Medio +/(B2)   
+- **🇲🇫 Francés:** Nivel Medio B1+/B2   
 [█████░░░░░]
 
-- **🇬🇧 Inglés:** Nivel Medio -/(B1)   
+- **🇬🇧 Inglés:** Nivel Medio B1/B1+   
 [███░░░░░░░]
 
 **🧠 Aptitudes**
