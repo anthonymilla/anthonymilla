@@ -1,6 +1,6 @@
 # 🧑‍💻 Mi presentación
 
-Hola, me llamo Anthony, nací en Barcelona el 2/10/2008 y vivo en Mataró actualmente. Hice la ESO en el Colegio Mare de Déu de Lourdes de Mataró y ahora estoy en un ciclo de grado medio de informática (SMR) en la [Escuela Pia](https://mataro.escolapia.cat/) Santa Anna de Mataró, aprendiendo.
+Hola, me llamo Anthony, nací en Barcelona el 2/10/2008 y vivo en Mataró actualmente. Hice la ESO en el Colegio Mare de Déu de Lourdes de Mataró, un ciclo de Grado Medio de Informática (SMR) en la Escuela Pia Santa Anna de Mataró y ahora estoy en un ciclo de Grado Superior de Informática (DAM) en la [Escuela Pia](https://mataro.escolapia.cat/) Santa Anna de Mataró, aprendiendo y desarrollando mis habilidades.
 
 👤 **Contacto** 
 - 📧 anthonymillaxt08@gmail.com
@@ -25,29 +25,30 @@ Hola, me llamo Anthony, nací en Barcelona el 2/10/2008 y vivo en Mataró actual
 
 | Área                   | Nivel Actual  | Herramientas / Aplicacions            |
 |------------------------|---------------|---------------------------------------|
-| Programación           | Básico        | Python                                |
+| Programación           | Básico        | Python, Java, JavaScript, HTML, C++   |
 | Aplicaciones ofimáticas| Medio         | Excel, Access, PowerPoint             |
-| Redes Locales          | Básico/Medio  | Packet Tracer                         |
-| Sistemas operativos    | Básico/Medio  | Linux, Windows                        |
-| Montaje y Mantenimento | Básico/Medio  | AIDA64, CPU-Z, PC Building Simulator  |
-| Aplicaciones web       | Básico/Medio  | WordPress, Figma, Moodle              |
+| Redes Locales          | Medio         | Packet Tracer                         |
+| Sistemas operativos    | Medio         | Linux, Windows                        |
+| Montaje y Mantenimento | Medio         | AIDA64, CPU-Z, PC Building Simulator  |
+| Aplicaciones web       | Medio         | WordPress, Figma, Moodle              |
 
 | 📚 Formación - Estudios |
 |----------------------------------------|
 
-- Grado medio de informática (sistemas microinformáticos y redes) (2024 - Actualmente)
-- Educación secundaria obligatoria (Colegio Mare de Déu de Lourdes de Mataró, 2020 - 2024)
+- Grado Superior de Informática - Desarollo de Aplicaciones Multiplataforma (Escuela Pia Santa Anna de Mataró, 2026 - Actualmente)
+- Grado Medio de Informática - Sistemas Microinformáticos y Redes (Escuela Pia Santa Anna de Mataró, 2024 - 2026)
+- Educación Secundaria Obligatoria (Colegio Mare de Déu de Lourdes de Mataró, 2020 - 2024)
 
 **🧱 Conocimientos/Experiencia**
 
-Conocimientos/experiencia en la reparación de ordenadores, configuración, administración, soporte técnico, traspaso de datos, venta de fundas, relojes tecnológicos, soldadura básica en ordenadores (teclados, reconstrucción de soportes roscados de bisagra), ordenadores de testeo y funcionales...
+Conocimientos/experiencia en la reparación de ordenadores, configuración, administración, aplicaciones, desarrollo, soporte técnico, traspaso de datos, venta de fundas, relojes tecnológicos, soldadura básica en ordenadores (teclados, reconstrucción de soportes roscados de bisagra), ordenadores de testeo y funcionales, y conocimientos básicos de programación (aprendiendo lenguajes como Python, Java, JavaScript, HTML, C++).
 
 | 💼 Experiencia Laboral |
 |----------------------------------------|
 
-- 🔹️ Prácticas de Grado medio de informática (Sistemas microinformáticos y redes) en la tienda CalTecniC distribuidor oficial Xiaomi, Accesorios y Reparaciones - Mataró. Donde yo dedicándome a la reparación de ordenadores, configuración, administración, soporte técnico, traspaso de datos, venta de fundas, relojes tecnológicos, soldadura básica en ordenadores (teclados, reconstrucción de soportes roscados de bisagra), ordenadores de testeo y funcionales...
+- 🔹️ Prácticas de Grado Medio de Informática (Sistemas Microinformáticos y Redes) en la tienda CalTecniC distribuidor oficial Xiaomi, Accesorios y Reparaciones - Mataró. Donde yo dedicándome a la reparación de ordenadores, configuración, administración, soporte técnico, traspaso de datos, venta de fundas, relojes tecnológicos, soldadura básica en ordenadores (teclados, reconstrucción de soportes roscados de bisagra), ordenadores de testeo y funcionales...
 
-![- Prácticas de Grado medio de informática (Sistemas microinformáticos y redes) en la tienda CalTecniC distribuidor oficial Xiaomi, Accesorios y Reparaciones - Mataró, una tienda con servicio de venta y reparación de ordenadores, de tabletas y otros dispositivos. Accesorios para tus equipos. Personalizaciones de accesorios, fundas y toda clase de dispositivos. Donde yo dedicándome a la reparación de ordenadores, configuración, administración, soporte técnico, traspaso de datos, venta de fundas, relojes tecnológicos, soldadura básica en ordenadores (teclados, reconstrucción de soportes roscados de bisagra), ordenadores de testeo y funcionales...](Img/Imagen01.png)
+![- 🔹️ Prácticas de Grado Medio de Informática (Sistemas Microinformáticos y Redes) en la tienda CalTecniC distribuidor oficial Xiaomi, Accesorios y Reparaciones - Mataró. Donde yo dedicándome a la reparación de ordenadores, configuración, administración, soporte técnico, traspaso de datos, venta de fundas, relojes tecnológicos, soldadura básica en ordenadores (teclados, reconstrucción de soportes roscados de bisagra), ordenadores de testeo y funcionales...](Img/Imagen01.png)
 
 | ➕ Experiencia Adicional |
 |----------------------------------------|
