@@ -1,6 +1,6 @@
 # 🧑‍💻 Mi presentación
 
-Hola, me llamo Anthony, nací en Barcelona el 2/10/2008 y vivo en Mataró actualmente. Hice la ESO en el Colegio Mare de Déu de Lourdes en Mataró, un ciclo de Grado Medio de Informática (SMR) en la Escuela Pia Santa Anna de Mataró y ahora estoy en un ciclo de Grado Superior de Informática (DAM) en la [Escuela Pia](https://mataro.escolapia.cat/) Santa Anna de Mataró, aprendiendo y desarrollando mis habilidades.
+Hola, me llamo Anthony, nací en Barcelona el 2/10/2008 y vivo en Mataró actualmente. Hice la ESO en el Colegio Mare de Déu de Lourdes de Mataró, un ciclo de Grado Medio de Informática (SMR) en la Escuela Pia Santa Anna de Mataró y ahora estoy en un ciclo de Grado Superior de Informática (DAM) en la [Escuela Pia](https://mataro.escolapia.cat/) Santa Anna de Mataró, aprendiendo y desarrollando mis habilidades.
 
 👤 **Contacto** 
 - 📧 anthonymillaxt08@gmail.com
@@ -37,7 +37,7 @@ Hola, me llamo Anthony, nací en Barcelona el 2/10/2008 y vivo en Mataró actual
 
 - Grado Superior de Informática - Desarollo de Aplicaciones Multiplataforma (Escuela Pia Santa Anna de Mataró, 2026 - Actualmente)
 - Grado Medio de Informática - Sistemas Microinformáticos y Redes (Escuela Pia Santa Anna de Mataró, 2024 - 2026)
-- Educación Secundaria Obligatoria (Colegio Mare de Déu de Lourdes en Mataró, 2020 - 2024)
+- Educación Secundaria Obligatoria (Colegio Mare de Déu de Lourdes de Mataró, 2020 - 2024)
 
 **🧱 Conocimientos/Experiencia**
 
