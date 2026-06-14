@@ -71,6 +71,9 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 - **🇬🇧 Inglés:** Nivel Medio B1/B1+   
 [███░░░░░░░]
 
+- **🇮🇹 Italiano:** Nivel Básico A1+/A2   
+[█░░░░░░░]
+
 **🧠 Aptitudes**
 
 - 👥 Trabajo en equipo  
