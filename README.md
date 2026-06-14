@@ -72,7 +72,7 @@ Conocimientos/experiencia en la reparación de ordenadores, configuración, admi
 [███░░░░░░░]
 
 - **🇮🇹 Italiano:** Nivel Básico A1+/A2   
-[█░░░░░░░]
+[█░░░░░░░░░]
 
 **🧠 Aptitudes**
 
