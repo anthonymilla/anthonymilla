@@ -7,7 +7,6 @@ Hola, me llamo Anthony, nací en Barcelona el 2/10/2008 y vivo en Mataró actual
 - 💻 https://github.com/anthonymilla
 - https://www.linkedin.com/me?trk=p_mwlite_profile_view-secondary_nav
 - https://www.infojobs.net/candidate/cv/view/index.xhtml
-- https://www.infojobs.net/candidate/cv/view/index.xhtml?codeCv=93b3a7f2-e2ed-4d4c-aa70-e10e3292df28
 
 **🧪 Me gusta aprender cosas nuevas, experimentar con proyectos y mejorar cada día.**  
 
