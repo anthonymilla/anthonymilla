@@ -25,19 +25,19 @@ Hola, me llamo Anthony, nací en Barcelona el 2/10/2008 y vivo en Mataró actual
 
 **💻⚙️ Conocimientos y Herramientas**
 
-| Área                        | Nivel Actual  | Herramientas / Aplicacions           |
+| Área                        | Nivel Actual  | Herramientas / Aplicaciones          |
 |-----------------------------|---------------|--------------------------------------|
 | Programación                | Básico        | Python, Java, JavaScript, HTML, C++  |
-| Bases de datos              | Medio         | Acces, DBngin, MySQL Workbench       |
-| Sistemas informáticos       | Medio         | Git, Github, Bitbucket               |
+| Bases de datos              | Medio         | Access, DBngin, MySQL Workbench      |
+| Sistemas informáticos       | Medio         | Git, GitHub, BitBucket               |
 | Desarrollo Backend          | Básico        | PHP, Laravel Herd                    |
 | Desarrollo Frontend y Datos | Básico        | VS Code, HTML, CSS                   |
-| Entornos de desarollo       | Medio         | IDEs, Git, GitHub, UML               |
+| Entornos de desarrollo      | Medio         | IDEs, Git, GitHub, UML               |
 | Aplicaciones ofimáticas     | Alto          | Excel, Access, PowerPoint            |
 | Redes Locales               | Medio         | Packet Tracer                        |
 | Sistemas operativos         | Medio         | Linux, Windows                       |
-| Montaje y Mantenimento      | Medio         | AIDA64, CPU-Z, PC Building Simulator |
-| Aplicaciones web            | Alto          | WordPress, Figma, Moodle             |
+| Montaje y Mantenimiento     | Medio         | AIDA64, CPU-Z, PC Building Simulator |
+| Aplicaciones web            | Medio         | WordPress, Figma, Moodle             |
 
 | 📚 Formación - Estudios |
 |----------------------------------------|
