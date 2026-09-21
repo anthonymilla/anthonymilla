@@ -48,7 +48,7 @@ Hola, me llamo Anthony, nací en Barcelona el 2/10/2008 y vivo en Mataró actual
 
 **🧱 Conocimientos/Experiencia**
 
-Conocimientos/experiencia en la reparación de ordenadores, configuración, administración, aplicaciones, desarrollo, soporte técnico, traspaso de datos, venta de fundas, relojes tecnológicos, soldadura básica en ordenadores (teclados, reconstrucción de soportes roscados de bisagra), ordenadores de testeo y funcionales, y conocimientos básicos de programación (aprendiendo lenguajes como Python, Java, JavaScript, HTML, C++).
+Conocimientos/experiencia en la reparación de ordenadores, configuración, administración, aplicaciones, desarrollo, soporte técnico, traspaso de datos, venta de fundas, relojes tecnológicos, soldadura básica en ordenadores (teclados, reconstrucción de soportes roscados de bisagra), ordenadores de testeo y funcionales, y conocimientos de programación (lenguajes como Python, Java, JavaScript, HTML, C++).
 
 | 💼 Experiencia Laboral |
 |----------------------------------------|
