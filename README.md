@@ -123,4 +123,6 @@ Aquí iré subiendo mis prácticas, proyectos personales, ideas, experimentos, t
 
 **[Univers superherois](https://github.com/anthonymilla/univers_superherois_Anthony_Milla)**
 
+**[Halloween-git-rescue](https://github.com/anthonymilla/halloween-git-rescue)**
+
 ---
