@@ -125,6 +125,6 @@ Aquí iré subiendo mis prácticas, proyectos personales, ideas, experimentos, t
 
 **[Halloween-git-rescue](https://github.com/anthonymilla/halloween-git-rescue)**
 
-**[ESCAPE ROOM - THE HALLOWEB INCIDENT](https://github.com/batallaa/escape-room-halloweb)**
+**[ESCAPE ROOM - THE HALLOWEB INCIDENT](https://github.com/batallaa/halloweb-incident)**
 
 ---
